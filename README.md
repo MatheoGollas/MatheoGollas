@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MatheoGollas
+- 👀 I’m interested in game development.
+- 🌱 I’m currently working on my exams for school.
+- 📫 You can reach me at mgollas@student.heaj.be
+- ⚡ Fun fact: I won the KISS game jam 2024, with "N-Ice Cover" !
